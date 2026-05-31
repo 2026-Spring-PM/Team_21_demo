@@ -1,0 +1,224 @@
+{
+  "seed_wheat": {
+    "id": "seed_wheat",
+    "name": "밀 모종",
+    "category": "Crop",
+    "price": 30
+  },
+  "seed_lettuce": {
+    "id": "seed_lettuce",
+    "name": "상추 모종",
+    "category": "Crop",
+    "price": 30
+  },
+  "seed_tomato": {
+    "id": "seed_tomato",
+    "name": "토마토 모종",
+    "category": "Crop",
+    "price": 30
+  },
+  "seed_potato": {
+    "id": "seed_potato",
+    "name": "감자 모종",
+    "category": "Crop",
+    "price": 30
+  },
+  "wheat": {
+    "id": "wheat",
+    "name": "밀",
+    "category": "Crop",
+    "price": 50
+  },
+  "lettuce": {
+    "id": "lettuce",
+    "name": "상추",
+    "category": "Crop",
+    "price": 70
+  },
+  "tomato": {
+    "id": "tomato",
+    "name": "토마토",
+    "category": "Crop",
+    "price": 100
+  },
+  "potato": {
+    "id": "potato",
+    "name": "감자",
+    "category": "Crop",
+    "price": 150
+  },
+  "mackerel": {
+    "id": "mackerel",
+    "name": "고등어",
+    "category": "Fish",
+    "price": 100
+  },
+  "salmon": {
+    "id": "salmon",
+    "name": "연어",
+    "category": "Fish",
+    "price": 300
+  },
+  "golden_tuna": {
+    "id": "golden_tuna",
+    "name": "황금참치",
+    "category": "Fish",
+    "price": 800
+  },
+  "egg": {
+    "id": "egg",
+    "name": "달걀",
+    "category": "Ranch",
+    "price": 60
+  },
+  "milk": {
+    "id": "milk",
+    "name": "우유",
+    "category": "Ranch",
+    "price": 80
+  },
+  "pork": {
+    "id": "pork",
+    "name": "돼지고기",
+    "category": "Ranch",
+    "price": 120
+  },
+  "beef": {
+    "id": "beef",
+    "name": "소고기",
+    "category": "Ranch",
+    "price": 150
+  },
+  "food_bread": {
+    "id": "food_bread",
+    "name": "식빵",
+    "category": "Food",
+    "price": 250
+  },
+  "food_tomatopasta": {
+    "id": "food_tomatopasta",
+    "name": "토마토 파스타",
+    "category": "Food",
+    "price": 350
+  },
+  "food_eggscramble": {
+    "id": "food_eggscramble",
+    "name": "에그스크램블",
+    "category": "Food",
+    "price": 200
+  },
+  "food_grilledmackerel": {
+    "id": "food_grilledmackerel",
+    "name": "고등어구이",
+    "category": "Food",
+    "price": 380
+  },
+  "food_braisedmackerel": {
+    "id": "food_braisedmackerel",
+    "name": "고등어조림",
+    "category": "Food",
+    "price": 450
+  },
+  "food_potatosoup": {
+    "id": "food_potatosoup",
+    "name": "감자수프",
+    "category": "Food",
+    "price": 480
+  },
+  "food_tomategg": {
+    "id": "food_tomategg",
+    "name": "토마토계란볶음",
+    "category": "Food",
+    "price": 480
+  },
+  "food_morningbread": {
+    "id": "food_morningbread",
+    "name": "모닝빵세트",
+    "category": "Food",
+    "price": 500
+  },
+  "food_sandwich": {
+    "id": "food_sandwich",
+    "name": "샌드위치",
+    "category": "Food",
+    "price": 550
+  },
+  "food_creampasta": {
+    "id": "food_creampasta",
+    "name": "크림 파스타",
+    "category": "Food",
+    "price": 600
+  },
+  "food_porklunch": {
+    "id": "food_porklunch",
+    "name": "삼겹살 도시락",
+    "category": "Food",
+    "price": 650
+  },
+  "food_burger": {
+    "id": "food_burger",
+    "name": "햄버거",
+    "category": "Food",
+    "price": 700
+  },
+  "food_agedsashimi": {
+    "id": "food_agedsashimi",
+    "name": "숙성회세트",
+    "category": "Food",
+    "price": 850
+  },
+  "food_salmonsashimi": {
+    "id": "food_salmonsashimi",
+    "name": "연어회",
+    "category": "Food",
+    "price": 900
+  },
+  "food_creamsalmon": {
+    "id": "food_creamsalmon",
+    "name": "크림연어",
+    "category": "Food",
+    "price": 1100
+  },
+  "food_beefsalmonsushi": {
+    "id": "food_beefsalmonsushi",
+    "name": "육회연어초밥",
+    "category": "Food",
+    "price": 1300
+  },
+  "food_steak": {
+    "id": "food_steak",
+    "name": "스테이크",
+    "category": "Food",
+    "price": 1500
+  },
+  "food_tunasashimi": {
+    "id": "food_tunasashimi",
+    "name": "황금참치회",
+    "category": "Food",
+    "price": 4000
+  },
+  "shell_gold": {
+    "id": "shell_gold",
+    "name": "황금조개",
+    "category": "Specialty",
+    "price": 500
+  },
+  "mushroom_wild": {
+    "id": "mushroom_wild",
+    "name": "야생버섯",
+    "category": "Specialty",
+    "price": 1000
+  },
+  "herb_mystic": {
+    "id": "herb_mystic",
+    "name": "신비초",
+    "category": "Specialty",
+    "price": 2000
+  },
+  "sprinkler": {
+    "id": "sprinkler",
+    "name": "스프링클러",
+    "category": "Misc",
+    "price": 500
+  }
+}
